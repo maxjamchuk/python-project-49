@@ -38,3 +38,27 @@
 [![asciicast](https://asciinema.org/a/chMOAuUL1j0LmZxXKw5sAAgB5.svg)](https://asciinema.org/a/chMOAuUL1j0LmZxXKw5sAAgB5)
 
 </details>
+
+
+### Установка
+
+1. Склонируйте репозиторий:
+```sh
+git clone git@github.com:maxjamchuk/python-project-49.git
+cd python-project-49
+```
+
+2. Установите пакет в систему:
+```sh
+make install
+make build
+```
+
+3. Команды для запуска игр:
+```sh
+brain-even
+brain-calc
+brain-gcd
+brain-progression
+brain-prime
+```
