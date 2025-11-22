@@ -1,3 +1,6 @@
+[![asciicast](https://asciinema.org/a/chMOAuUL1j0LmZxXKw5sAAgB5.svg)](https://asciinema.org/a/chMOAuUL1j0LmZxXKw5sAAgB5)
+
+
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=maxjamchuk_python-project-49&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=maxjamchuk_python-project-49)
 
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=maxjamchuk_python-project-49&metric=bugs)](https://sonarcloud.io/summary/new_code?id=maxjamchuk_python-project-49)
