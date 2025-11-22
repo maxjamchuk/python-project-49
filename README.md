@@ -1,3 +1,6 @@
+### Brain GCD demo
+[![asciicast](https://asciinema.org/a/6aKbC8D1x4ILgUZB0yQysUzVa.svg)](https://asciinema.org/a/6aKbC8D1x4ILgUZB0yQysUzVa)
+
 ### Brain Calc demo
 [![asciicast](https://asciinema.org/a/KjpDdLtYufOxzbdhDI2guh7IR.svg)](https://asciinema.org/a/KjpDdLtYufOxzbdhDI2guh7IR)
 
