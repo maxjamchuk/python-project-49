@@ -1,17 +1,27 @@
-### Brain Prime demo
+<details>
+<summary>Brain Prime demo</summary>
 [![asciicast](https://asciinema.org/a/aXJpN0XhfvXqqSZI3cR2QDHak.svg)](https://asciinema.org/a/aXJpN0XhfvXqqSZI3cR2QDHak)
+</details>
 
-### Brain Progression demo
+<details>
+<summary>Brain Progression demo</summary>
 [![asciicast](https://asciinema.org/a/bFV8fsJlvrvWuE8T8Y2Fh9YJR.svg)](https://asciinema.org/a/bFV8fsJlvrvWuE8T8Y2Fh9YJR)
+</details>
 
-### Brain GCD demo
+<details>
+<summary>Brain GCD demo</summary>
 [![asciicast](https://asciinema.org/a/6aKbC8D1x4ILgUZB0yQysUzVa.svg)](https://asciinema.org/a/6aKbC8D1x4ILgUZB0yQysUzVa)
+</details>
 
-### Brain Calc demo
+<details>
+<summary>Brain Calc demo</summary>
 [![asciicast](https://asciinema.org/a/KjpDdLtYufOxzbdhDI2guh7IR.svg)](https://asciinema.org/a/KjpDdLtYufOxzbdhDI2guh7IR)
+</details>
 
-### Brain Even demo
+<details>
+<summary>Brain Even demo</summary>
 [![asciicast](https://asciinema.org/a/chMOAuUL1j0LmZxXKw5sAAgB5.svg)](https://asciinema.org/a/chMOAuUL1j0LmZxXKw5sAAgB5)
+</details>
 
 ### SonarQube test
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=maxjamchuk_python-project-49&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=maxjamchuk_python-project-49) [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=maxjamchuk_python-project-49&metric=bugs)](https://sonarcloud.io/summary/new_code?id=maxjamchuk_python-project-49) [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=maxjamchuk_python-project-49&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=maxjamchuk_python-project-49) [![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=maxjamchuk_python-project-49&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=maxjamchuk_python-project-49) [![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=maxjamchuk_python-project-49&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=maxjamchuk_python-project-49) [![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=maxjamchuk_python-project-49&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=maxjamchuk_python-project-49) [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=maxjamchuk_python-project-49&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=maxjamchuk_python-project-49) [![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=maxjamchuk_python-project-49&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=maxjamchuk_python-project-49) [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=maxjamchuk_python-project-49&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=maxjamchuk_python-project-49) [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=maxjamchuk_python-project-49&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=maxjamchuk_python-project-49)
